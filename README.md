@@ -4,7 +4,6 @@
 *  📝 [개요](#-개요)
 *  🛠 [기술 및 도구](#-기술-및-도구)
 *  ✨ [기능 구현](#-기능-구현)
-*  ⏰ [일정](#-일정)
 
 ## **📝 개요**
 > **프로젝트** : 스마트 지킴이
@@ -24,8 +23,8 @@
 
 ## **🛠 기술 및 도구**   
 > **언어** :<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>, <img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>  
-> **환경** : <img alt="androidstudio" src ="https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=white"/>,<img alt="ros" src ="https://img.shields.io/badge/ros-22314E.svg?&style=flat-square&logo=ros&logoColor=white"/>, <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=white"/>, <img alt="arduino" src ="https://img.shields.io/badge/arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white"/>  
-> **라이브러리** : <img alt="qt" src ="https://img.shields.io/badge/qt-41CD52.svg?&style=flat-square&logo=qt&logoColor=white"/>, <img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>, <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white"/>   
+> **환경** : <img alt="androidstudio" src ="https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=white"/>, <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=white"/>, <img alt="arduino" src ="https://img.shields.io/badge/arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white"/>  
+> **라이브러리** : <img alt="googleassistant" src ="https://img.shields.io/badge/googleassistant-4285F4.svg?&style=flat-square&logo=googleassistant&logoColor=white"/>, <img alt="googlestreetview" src ="https://img.shields.io/badge/googlestreetview-0F9D58.svg?&style=flat-square&logo=googlestreetview&logoColor=white"/>   
 > **도구** : <img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white"/>   
 
 
