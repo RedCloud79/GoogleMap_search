@@ -32,7 +32,7 @@
 
 
 ## **✨ 기능 구현**
-####[코드링크](https://github.com/RedCloud79/GoogleMap_search/tree/main/app/src/main/java/com/example/map)
+#### [코드링크](https://github.com/RedCloud79/GoogleMap_search/tree/main/app/src/main/java/com/example/map)
 ### **블록다이어그램**
 <img width="70%" alt="간단 블록도" src="https://github.com/RedCloud79/GoogleMap_search/blob/main/%EB%B8%94%EB%A1%9D%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png" />
 
