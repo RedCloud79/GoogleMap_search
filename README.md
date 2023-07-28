@@ -18,6 +18,9 @@
 > > * Google Map API를 활용하여 화면에 지도를 표시하고 마커와 폴리곤의 기능을 활용합니다.
 > > * NEO-7M GPS 데이터 전송 및 위치 표시를 통해 사용자의 위치에 마커를 생성하여 지도상에 표시를 해줍니다.
 > > * GPS 위치 이탈 감지 및 경고 기능을 통해 사용자의 위치및 보호가 가능한 기능을 수행합니다.
+>
+> **참고 포트폴리오 및 논문**
+> > * 링크 : https://drive.google.com/drive/folders/12iu5VZvDj3vtFyHB9HT8SHIC3XjxP0fC?usp=sharing
 
 
 
